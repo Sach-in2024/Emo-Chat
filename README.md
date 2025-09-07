@@ -1,6 +1,7 @@
 # EmoChat 💬 — Emotion-Aware Chatbot
 
-![EmoChat Banner](https://raw.githubusercontent.com/<your-username>/EmoChat/main/assets/banner.png)
+<img width="1091" height="342" alt="Screenshot 2025-09-07 225237" src="https://github.com/user-attachments/assets/6c395007-c71f-4f4f-8852-2f4f71b7652f" />
+
 
 **EmoChat** is a friendly chatbot that detects emotions from your text and responds empathetically. Powered by **DistilBERT**, it understands emotions like joy, sadness, anger, fear, love, and surprise, and replies accordingly with personalized messages and emojis.
 
@@ -136,4 +137,4 @@ This project is licensed under **MIT License**.
 
 ---
 
-Made with ❤️ by [Sachin Kumar](https://github.com/<your-username>)
+Made with ❤️ by [Sachin Kumar](https://github.com/<Sach-in2024>)
